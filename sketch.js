@@ -100,7 +100,7 @@ function draw() {
 
   if(haySonido){  // ESTADO
     ampTest = sin(frameCount*0.1);
-    frecTest = sin(amp*frameCount*0.01);
+    frecTest = sin(amp*frameCount*0.009);
   }
 
  
